@@ -1,7 +1,6 @@
 # PirateAgent
 CS-370 AI model I created to solve a maze. 
 
-Briefly explain the work that you did on this project:
 I worked on the functionality and constraints of the AI agent. 
 
 I was given the code for the environment and how the score is kept, I had to create the code that would help my Ai agent learn to navigate the maze.
